@@ -1,0 +1,6 @@
+{
+  "name": "8. Sınıf Friendship İngilizce Hafıza Oyunu",
+  "description": "8. Sınıf 1. Ünite Friendship için renkli, sesli, akıllı tahta uyumlu ve zor seviye İngilizce kelime ve kalıp hafıza oyunu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
